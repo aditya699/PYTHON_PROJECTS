@@ -6,7 +6,7 @@ This is a repo for python projects which are beginner friendly. A lot of project
 
 ## 🚀 About Me
 I'm a aspiring data scientist / data analyst. I am currently pursuing BSC(H) Statistics from RLA DELHI UNIVERSITY.
-I have keen interest in data science domain.Currently i am working as Junior Data scientist at Ineuron.AI.
+I have keen interest in data science domain.Currently i have previously  worked as Junior Data scientist at Ineuron.AI.
 
 
 
