@@ -1,7 +1,7 @@
 
 # Hi, I'm Aditya 👋
 
-This is a repo for python projects which are beginner friendly.
+This is a repo for python projects which are beginner friendly. A lot of projects will be added here.
 
 
 ## 🚀 About Me
