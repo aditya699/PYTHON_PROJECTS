@@ -1,0 +1,5 @@
+HOW TO RUN IT?
+
+1.MAKE A NEW ENVIORONMENT
+2.conda create -n [envname] python=3.6
+3.!pip install -r requirements.txt  #this command can be run from the ide of ur choice
