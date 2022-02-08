@@ -22,3 +22,7 @@ Link for demo-https://youtu.be/V-E5Ll4kd0k
 
 4.This is implememtation of a perceptron class from scratch we have answered a key question that why XOR gate can't be directly solved by Perceptron class.
 
+5.The fifth project helps us implement perceptron as a package (yet to be published) but u can use in your local system
+
+
+
